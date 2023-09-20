@@ -48,3 +48,7 @@ PyCaret is an open-source machine learning library in Python that helps to autom
 
 8. Integration with other Libraries
 
+## 2b. Gradio
+
+Gradio is a Python library that allows developers to rapidly generate user interfaces (UI) for machine learning models. So I have used gradio for the above pycaret dataset.
+
